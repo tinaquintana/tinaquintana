@@ -12,7 +12,7 @@ Born in La Falda, Córdoba, Argentina in March 1994. Lives and works in Buenos A
 <h3>about</h3>
 </div>
 
-Born in La Falda, Córdoba, Argentina in March 1994. Lives and works in Buenos Aires. She published a poetry collection and is working on several new projects, both literary and multimedia. <br/>She is a law student at the National University of La Plata. <br/>
+Born in La Falda, Córdoba, Argentina in March 1994. Lives and works in Buenos Aires. She published a poetry collection and is working on several new projects, both literary and multimedia. <br/>She is a Law and Communication double major at the National University of La Plata. <br/>
 <a href="mailto:agustinagtq@gmail.com">e-mail</a>  | <a href="https://twitter.com/heliokabbalah">twitter</a> | <a href="https://instagram.com/heliokabbalah">instagram</a>  | <a href="https://tinaquintana.tumblr.com">blog</a> 
 
 
@@ -88,7 +88,3 @@ You can find all the icons avaliable by going to fontawesome.com
 
 
 -->
-</div>
-
-
-</body>
