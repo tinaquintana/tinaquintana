@@ -1,10 +1,3 @@
-<!--
-Enter your name here, this is what appears in the tab label on a browser.
- -->
-<title>Tina Quintana</title>
-
-<body>
-<div class="list">
 
 <!--
 
@@ -19,7 +12,8 @@ Born in La Falda, Córdoba, Argentina in March 1994. Lives and works in Buenos A
 <h3>about</h3>
 </div>
 
-Born in La Falda, Córdoba, Argentina in March 1994. Lives and works in Buenos Aires. She published a poetry collection and is working on several new projects, both literary and multimedia. <br/>She is a law student at the National University of La Plata.
+Born in La Falda, Córdoba, Argentina in March 1994. Lives and works in Buenos Aires. She published a poetry collection and is working on several new projects, both literary and multimedia. <br/>She is a law student at the National University of La Plata. <br/>
+<a href="mailto:agustinagtq@gmail.com">e-mail</a>  | <a href="https://twitter.com/heliokabbalah">twitter</a> | <a href="https://instagram.com/heliokabbalah">instagram</a>  | <a href="https://tinaquintana.tumblr.com">blog</a> 
 
 
 </div>
