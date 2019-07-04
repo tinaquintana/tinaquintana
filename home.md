@@ -77,10 +77,7 @@ The <br> is a line brake. This makes sure each link is on a new line.
 This is the section with the contact and the social buttons. Edit it however you want.
  -->
 <div class="contact">
-<h3>contact</h3>
-<ul>
- mailto:agustinagtq@gmail.com
-</ul>
+<h3>:)</h3>
 <!--
 To link to a direct email then include "mailto:youremail@example.com"
 
