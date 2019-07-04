@@ -2,7 +2,6 @@
 Enter your name here, this is what appears in the tab label on a browser.
  -->
 <title>Tina Quintana</title>
-</head>
 
 <body>
 <div class="list">
